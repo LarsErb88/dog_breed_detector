@@ -33,6 +33,8 @@ After Test:
 * Accuracy of my own network: 22% (only 10 epochs)
 * Accuracy network with transfer learning (VGG16): 63% (only 17 epochs)
 
+Python version: 3.7.2
+
 Contributing
 ------------
 
