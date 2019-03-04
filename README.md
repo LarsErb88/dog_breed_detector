@@ -28,6 +28,10 @@ More Information
 
 If u want to put in your own picture of a dog (or a human), save the picture under the folder "test".
 
+After Test:
+Accuracy of my own network: 22% (only 10 epochs)
+Accuracy network with transfer learning (VGG16): 63% (only 17 epochs)
+
 Contributing
 ------------
 
